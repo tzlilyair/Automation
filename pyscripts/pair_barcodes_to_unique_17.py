@@ -1,3 +1,4 @@
+#This script thaks the list of the 17 unique and the list of the barcodes and create one file that show the paring of the 17 unique and the barcode.
 # %%
 import sys
 import pandas as pd
