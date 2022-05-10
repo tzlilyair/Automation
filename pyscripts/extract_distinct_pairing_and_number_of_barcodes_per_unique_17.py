@@ -1,3 +1,5 @@
+#This script give us table that shows the 17 unique and the number of different barcodes that point to that 17 unique. 
+
 import pandas as pd
 import ipdb
 import os
