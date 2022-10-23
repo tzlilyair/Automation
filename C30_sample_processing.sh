@@ -1,6 +1,6 @@
 #!/bin/bash
 #Description: This script extract the 17 unique and the barcodes from the full sequence of the fastq files.
-#This script use Cutadapt,Bowtie and Samtools. All this programs help us to do trimming to the sequence and to do alingment to the library.
+#Cutadapt, Bowtie, and Samtools are used in this script. These programs allow us to trim the sequence and align it with the library.
 
 #Example:
 # The full sequence: TGCGATCTAAGTAAGCTTGCCTGCATTAAAGGTCAGGTACTGTTGGTAAACCAGCTCCGTGAGACGGATTTGAGGATCCCCAGCTCGCCACCATGGTGTCTAA
